@@ -2,12 +2,12 @@
 Arduino + nRF24L01 を使ったスポーツゲーム
 
 ## 使った物達
-Arduino Mega×１
-Arduino uno×５
-7セグメントLED×2
-無線モジュールnRF24×６
-百均のLED付きの大きめのボタン×６
-２×４木材　１０本
+Arduino Mega×１ <br>
+Arduino uno×５<br>
+7セグメントLED×2 <br>
+無線モジュールnRF24×６<br>
+百均のLED付きの大きめのボタン×６<br>
+２×４木材　１０本<br>
 
 ## 構成
 丸形の机とスイッチ×1　←スタートボタン
